@@ -7,3 +7,5 @@
  */
 
 echo "hey";
+
+echo "2";
