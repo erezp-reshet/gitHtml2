@@ -11,3 +11,7 @@ echo "hey";
 echo "33";
 
 echo "2";
+
+if (2 ==2) {
+    echo "is 2";
+}
