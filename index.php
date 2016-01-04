@@ -15,3 +15,4 @@ echo "2";
 if (2 ==2) {
     echo "is 2";
 }
+echo "<hr>";
