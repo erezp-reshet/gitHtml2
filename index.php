@@ -16,3 +16,4 @@ if (2 ==2) {
     echo "is 2";
 }
 echo "<hr>";
+echo "d";
